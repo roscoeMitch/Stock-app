@@ -1,0 +1,12 @@
+.delete-button {
+	visibility: hidden;
+	display: inline-block;
+}
+.table-row:hover .delete-button {
+	visibility: visible;
+}
+.Logo {
+	height: 10rem;
+	width: 20rem;
+
+}
